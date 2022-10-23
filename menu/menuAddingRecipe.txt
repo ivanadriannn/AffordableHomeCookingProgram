@@ -1,0 +1,8 @@
+=============================================================================
+ ==>  please input 
+      [ingredient name]_[amount]_[measurement type]
+      to store a new recipe.
+ ==>  please input ['stop'] to stop adding ingredients.
+ ==>  measurement types: "grams", "kilograms", "ounces", and "pounds".
+=============================================================================
+
